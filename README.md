@@ -1,6 +1,11 @@
 <!-- GitHub Profile README -->
 
+<!-- <h1 align="center">Hi 👋, I'm Jaehyuk</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer;Always+learning+new+things" alt="Typing SVG" />
+</p>
+-->
 ---
 
 ### 📊 My GitHub Stats
